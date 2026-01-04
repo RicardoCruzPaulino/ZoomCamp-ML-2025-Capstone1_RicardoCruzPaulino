@@ -1,0 +1,10 @@
+# Commands used to commit and push changes
+cd /workspaces/ZoomCamp-ML-2025-Capstone1_RicardoCruzPaulino
+git add -A
+git commit -m "Containerize app; add Dockerfile, run scripts, deployment docs, health endpoint, pytest integration"
+git push origin main
+
+# Created COMMIT_COMMANDS.txt and committed it
+git add COMMIT_COMMANDS.txt
+git commit -m "Add COMMIT_COMMANDS.txt with commit steps"
+git push origin main
