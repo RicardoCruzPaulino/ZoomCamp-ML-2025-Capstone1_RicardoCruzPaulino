@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+Pipfile
+Pipfile.lock
+.git/
+*.ipynb
+.DS_Store
